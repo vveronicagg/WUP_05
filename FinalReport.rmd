@@ -74,3 +74,6 @@ The fisher test here states that the odd ratio is 1.5439 meaning that you are 1.
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+We did the bar plot tests, numerical summaries, and inferential tests. Stating that drugs makes you 1.5439 time more to get sick instead of preventing sickness.
+
